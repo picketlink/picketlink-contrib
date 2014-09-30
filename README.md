@@ -1,4 +1,4 @@
-login-modules:  Additional login-modules of JBoss/PicketLink
+picketlink-contrib:  Additional login-modules of JBoss/PicketLink
 ===============================
 Author: Michael Cirioli
 Level: Beginner
